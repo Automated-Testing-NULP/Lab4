@@ -1,1 +1,1 @@
-# Lab4
+Tested given web resource with Apache JMeter
